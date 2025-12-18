@@ -25,5 +25,5 @@ Catatan
 - Jika file berada dalam package, jalankan sesuai struktur package (sesuaikan perintah `javac`/`java`).
 - Untuk menjalankan di IDE (IntelliJ/Eclipse/VS Code), buka proyek sebagai Java project dan jalankan kelas `MenuRekomendasiDiskrit`.
 
-Kontak
-- Jika ingin perubahan pada README atau penjelasan fungsi, beri tahu saya dan saya akan perbarui.
+
+
